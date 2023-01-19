@@ -1,6 +1,7 @@
-name: rocks.craftclue.playerdataconverter.PlayerDataConverter
-main: rocks.craftclue.playerdataconverter.rocks.craftclue.playerdataconverter.PlayerDataConverter
+name: PlayerDataConverter
+main: rocks.craftclue.playerdataconverter.PlayerDataConverter
 version: 1.0.0
+author: cluefuhfake
 commands:
   convertplayerdata:
     description: Convert old pre-UUID user world files to UUID ones
