@@ -1,3 +1,5 @@
+package rocks.craftclue.playerdataconverter;
+
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class PlayerDataConverter extends JavaPlugin {
